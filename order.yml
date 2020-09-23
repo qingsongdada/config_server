@@ -14,4 +14,4 @@ eureka:
 server:
   port: 8001
 bus:
-  test: aaaa
+  test: bbbb
